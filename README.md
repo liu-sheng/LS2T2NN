@@ -2,7 +2,7 @@
 ## Description
 - Matlab code for the paper: \"Learnable Spatial-Spectral Transform-Based Tensor Nuclear Norm for Multi-Dimensional Visual Data Recovery\",  in IEEE Transactions on Circuits and Systems for Video Technology, vol. 34, no. 5, pp. 3633-3646, 2024. 
 
-- Copyright: Sheng Liu, Jinsong, Leng, Xi-Le Zhao, Haijin Zeng, Yao Wang, Jing-Hua, Yang
+- Copyright: Sheng Liu, Jinsong Leng, Xi-Le Zhao, Haijin Zeng, Yao Wang, Jing-Hua Yang
 
 
 ## Get started
